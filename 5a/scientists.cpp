@@ -6,6 +6,8 @@ using namespace std;
 
 int main(){
 
+//single comment
+
 	vector<string> list;
 	for(size_t i = 0; i < list.size(); ++i){ cout<<list.at(i)<<endl;}
 	list.push_back("Lovelace");
